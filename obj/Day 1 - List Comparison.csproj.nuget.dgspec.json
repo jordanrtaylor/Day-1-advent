@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Project 1 - List Comparison.csproj": {}
+    "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Day 1 - List Comparison.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Project 1 - List Comparison.csproj": {
+    "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Day 1 - List Comparison.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Project 1 - List Comparison.csproj",
-        "projectName": "Project 1 - List Comparison",
-        "projectPath": "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Project 1 - List Comparison.csproj",
+        "projectUniqueName": "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Day 1 - List Comparison.csproj",
+        "projectName": "Day 1 - List Comparison",
+        "projectPath": "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\Day 1 - List Comparison.csproj",
         "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jorda\\Desktop\\advent\\Day 1 - List Comparison\\obj\\",
         "projectStyle": "PackageReference",

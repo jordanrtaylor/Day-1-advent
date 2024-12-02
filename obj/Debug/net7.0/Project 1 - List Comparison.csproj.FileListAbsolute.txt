@@ -1,0 +1,14 @@
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.AssemblyInfoInputs.cache
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.AssemblyInfo.cs
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\bin\Debug\net7.0\Project 1 - List Comparison.exe
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\bin\Debug\net7.0\Project 1 - List Comparison.deps.json
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\bin\Debug\net7.0\Project 1 - List Comparison.runtimeconfig.json
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\bin\Debug\net7.0\Project 1 - List Comparison.dll
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\bin\Debug\net7.0\Project 1 - List Comparison.pdb
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.dll
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\refint\Project 1 - List Comparison.dll
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.pdb
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\Project 1 - List Comparison.genruntimeconfig.cache
+C:\Users\jorda\Desktop\advent\Project 1 - List Comparison\obj\Debug\net7.0\ref\Project 1 - List Comparison.dll
